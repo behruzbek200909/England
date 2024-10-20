@@ -1,0 +1,67 @@
+.header {
+box-shadow: 0px 0px 8px 0px;
+
+}
+
+.header-inner{
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.header-inner-link {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.flag-star{
+    font-family: roboto;
+font-size: 30px;
+font-weight: 400;
+line-height: 54px;
+text-align: left;
+
+}
+
+.flag {
+    border-radius: 100%;
+}
+
+.alpen {
+display: flex;
+gap: 50px;
+align-items: center;
+}
+
+.alpen-gold-cream {
+     font-family: Poppins;
+font-size: 15px;
+font-weight: 500;
+line-height: 30px;
+text-align: left;
+color: #272626f0;
+}
+
+.cover {
+    display: flex;
+    gap: 100px;
+    align-items: center;
+}
+.pages {
+font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+line-height: 16.8px;
+text-align: left;
+color: #222831;
+}
+.sport {
+padding: 10px 20px;
+border-radius: 100px;
+background: #ff0000;
+color: #fff;
+font-family: Roboto;
+}

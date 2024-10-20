@@ -1,0 +1,63 @@
+
+.arsenal {
+ font-family: poppins;
+font-size: 35px;
+font-weight: 900;
+line-height: 48px;
+text-align: center;
+margin-top: 70px;
+margin-bottom: 40px;
+}
+.mack {
+    width: 760px;
+height: 1px;
+top: 127px;
+left: 15.5px;
+gap: 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+background: #2C343E;
+margin-left: 230px;
+margin-bottom: 50px;
+margin-bottom: 100px;
+}
+
+.boat-done-app {
+    display: flex;
+    gap: 30px;
+}
+.boat-done-app-park {
+    box-shadow: 0px 0px 8px 0px;
+    border-radius: 10px;
+    margin-bottom: 180px;
+}
+.stick {
+    width: 380px;
+    height: 250px;
+    border-radius: 10px 10px 0px 0px;
+}
+.strong {
+    font-family: poppins;
+font-size: 24px;
+font-weight: 900;
+line-height: 32px;
+text-align: center;
+margin-bottom: 5px;
+}
+
+.long {
+    font-family: roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+}
+
+.river {
+    width: 380px;
+    height: 230px;
+    border-radius: 10px 10px 0px 0px;
+}

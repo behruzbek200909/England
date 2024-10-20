@@ -1,0 +1,50 @@
+.foto{
+    font-family: poppins;
+font-size: 30px;
+font-weight: 400;
+line-height: 54px;
+text-align: left;
+color: #fff;
+}
+
+.flag {
+    border-radius: 100%;
+}
+
+.orign {
+    background-color: red;
+}
+
+.orign-spaces {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: red;
+}
+.orign-spaces-prettier {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.redmi {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.redmi-com-old {
+    font-family: roboto;
+font-size: 15px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 0.9230769276618958px;
+text-align: left;
+color: #fff;
+}
+.vivaldi {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
