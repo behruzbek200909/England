@@ -31,3 +31,30 @@ padding-left: 10px;
       width: 500px;
       height: 520px;
 }
+
+@media (max-width: 1000px) {
+  
+.bloger {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+
+.made {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.made-chine {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.cln {
+  width: 445px;
+height: 520px;
+}
+
+}

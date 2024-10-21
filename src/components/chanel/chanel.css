@@ -31,3 +31,30 @@ line-height: 26px;
 text-align: left;
 color: #333D4B;
 }
+
+@media (max-width: 1000px) {
+
+.bleu-park {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.site {
+    width: 445px;
+height: 400px;
+}
+
+.coffee {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.coffee-market {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+}
